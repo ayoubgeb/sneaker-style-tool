@@ -1,1 +1,1 @@
-# sneaker-style-tool
+Delete file
